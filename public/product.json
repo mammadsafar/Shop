@@ -1,0 +1,37 @@
+[ {
+    "id": "1",
+    "img": "img/QIFTOLLY_TEAM(1).png",
+    "title": "PLEAT PRINTED DRESS",
+    "price": "20",
+    "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci consequuntur numquam doloremque similique neque ratione sint rem perferendis. In dolores fuga nihil iure quod esse incidunt iste nostrum dicta exercitationem."
+  }, {
+  "id": "2",
+    "img": "img/QIFTOLLY_TEAM(2).png",
+    "title": "FLUTED HEM DRESS",
+    "price": "20",
+    "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci consequuntur numquam doloremque similique neque ratione sint rem perferendis. In dolores fuga nihil iure quod esse incidunt iste nostrum dicta exercitationem."
+  }, {
+   "id": "3",
+    "img": "img/QIFTOLLY_TEAM(3).png",
+    "title": "FLOWN SHIRT DRESS",
+    "price": "60",
+    "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci consequuntur numquam doloremque similique neque ratione sint rem perferendis. In dolores fuga nihil iure quod esse incidunt iste nostrum dicta exercitationem."
+  }, {
+    "id": "4",
+    "img": "img/QIFTOLLY_TEAM(4).png",
+    "title": "DOUBLE LAYER DRESS",
+    "price": "20",
+    "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci consequuntur numquam doloremque similique neque ratione sint rem perferendis. In dolores fuga nihil iure quod esse incidunt iste nostrum dicta exercitationem."
+  }, {
+  "id": "5",
+    "img": "img/QIFTOLLY_TEAM(5).png",
+    "title": "BEAD DETAIL DRESS",
+    "price": "20",
+    "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci consequuntur numquam doloremque similique neque ratione sint rem perferendis. In dolores fuga nihil iure quod esse incidunt iste nostrum dicta exercitationem."
+  }, {
+   "id": "6",
+    "img": "img/QIFTOLLY_TEAM(6).png",
+    "title": "PRINTED ",
+    "price": "30",
+    "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci consequuntur numquam doloremque similique neque ratione sint rem perferendis. In dolores fuga nihil iure quod esse incidunt iste nostrum dicta exercitationem."
+  } ]
